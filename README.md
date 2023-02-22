@@ -1,3 +1,11 @@
+<h2> Hi, I'm Kavi Arasan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>Student at <a href="http://www.hit.edu.in/">Hindusthan Institute</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Working as a freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Twitter: Kavi R](https://img.shields.io/twitter/follow/rkavi2679?style=social)](https://twitter.com/rkavi267)
+[![Linkedin: Kavi](https://img.shields.io/badge/kavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaviarasan-r/)](https://www.linkedin.com/in/kaviarasan-r/)
+[![GitHub Kavi](https://img.shields.io/github/followers/Kaviarasan-R?style=social)](https://github.com/Kaviarasan-R)
+
 Pattern Questions
 
 Print these patterns using loops:
